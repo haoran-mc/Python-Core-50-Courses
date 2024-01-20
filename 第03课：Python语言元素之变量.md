@@ -39,9 +39,6 @@
 ```Python
 """
 使用变量保存数据并进行加减乘除运算
-
-Version: 0.1
-Author: 骆昊
 """
 a = 45          # 变量a保存了45
 b = 12          # 变量b保存了12
@@ -56,9 +53,6 @@ print(a / b)    # 3.75
 ```Python
 """
 使用type()检查变量的类型
-
-Version: 0.1
-Author: 骆昊
 """
 a = 100
 b = 12.345
@@ -83,9 +77,6 @@ print(type(d))    # <class 'bool'>
 ```Python
 """
 Python中的类型转换操作
-
-Version: 0.1
-Author: 骆昊
 """
 a = 100
 b = 12.345

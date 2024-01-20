@@ -116,9 +116,6 @@ Python中有两种形式的注释：
 ```Python
 """
 第一个Python程序 - hello, world
-
-Version: 0.1
-Author: 骆昊
 """
 # print('hello, world')
 print("你好，世界！")
